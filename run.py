@@ -4,7 +4,7 @@ from aiogram.contrib.middlewares.logging import LoggingMiddleware
 from aiogram.types import ParseMode, ReplyKeyboardMarkup, KeyboardButton
 from aiogram.utils import executor
 
-API_TOKEN = '7310816247:AAGdCAoCim82ca8AfLxhpbAgUA8Bb1k5cuc'
+API_TOKEN = 'token'
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
